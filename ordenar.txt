@@ -5,6 +5,8 @@ orden 1
 orden 2
 
 codificando en c++
-funcion
-cuerpo de la funcion
-fin de la funcion
+funcion1
+cuerpo de la funcion1
+fin de la funcion1
+
+codificando para imprimir los resultados
